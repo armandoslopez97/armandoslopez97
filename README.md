@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @armandoslopez97
+- 👋 Hi, I’m Mando
 - 👀 I’m interested in operating systems, video games, and creative software. 
 -    Basically anything that requires low level optimization and high performance.
 - 🌱 I’m currently learning C++ and trying to learn gtk.
